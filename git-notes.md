@@ -19,3 +19,5 @@ Creates a snapshot of staged changes.
 ## git push
 Uploads local commits to GitHub.
 
+## git pull
+ download the latest changes from GitHub and updates your local repository.
