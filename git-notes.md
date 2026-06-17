@@ -20,4 +20,7 @@ Creates a snapshot of staged changes.
 Uploads local commits to GitHub.
 
 ## git pull
- download the latest changes from GitHub and updates your local repository.
+Download the latest changes from GitHub and updates your local repository.
+
+## rm 
+Removes the file
